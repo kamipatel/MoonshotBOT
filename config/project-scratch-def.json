@@ -1,0 +1,36 @@
+{
+  "orgName": "Kam",
+  "edition": "Developer",
+  "features": [
+    "Communities",
+    "Sites",
+    "ServiceCloud",
+    "LightningServiceConsole",
+    "LiveAgent",
+    "LiveMessage",
+    "Chatbot",
+    "ChatbotEinsteinPilot",
+    "Knowledge",
+    "DevelopmentWave",
+    "ForceComPlatform"
+  ],
+  "settings": {
+    "orgPreferenceSettings": {
+      "networksEnabled": true,
+      "s1DesktopEnabled": true,
+      "selfSetPasswordInApi": true
+    },
+    "liveAgentSettings": {
+      "enableLiveAgent": true
+    },
+    "botSettings": {
+      "enableBots": true
+    },
+    "omniChannelSettings": {
+      "enableOmniChannel": true
+    },
+    "caseSettings": {
+      "systemUserEmail": "support@acme.com"
+    }
+  }
+}
